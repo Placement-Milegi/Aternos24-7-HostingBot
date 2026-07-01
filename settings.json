@@ -8,11 +8,11 @@
   "server": {
     "ip": "Markapfler.aternos.me",
     "port": 19275,
-    "version": "",
+    "version": "1.21.9",
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
@@ -62,13 +62,13 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
+    "combat": false,
     "beds": false,
     "chat": true,
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {
